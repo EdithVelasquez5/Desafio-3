@@ -1,0 +1,19 @@
+[
+        {
+
+            "cat_id": "1",
+            "cat_nombre": "Aventura"
+        },
+        {
+            "cat_id": "2",
+            "cat_nombre": "Romance"
+        },
+        {
+            "cat_id": "3",
+            "cat_nombre": "Terror"
+        },
+        {
+            "cat_id": "4",
+            "cat_nombre": "Ciencia Ficción"
+        }
+]
